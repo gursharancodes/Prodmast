@@ -11,7 +11,7 @@ const Hero = () => {
 
                 {/* main heading */}
                 <div className='text-center flex flex-col items-center gap-2 md:gap-4 w-[80vw] md:max-w-4xl'>
-                    <h2 className='text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight leading-tight mb-2'>
+                    <h2 className='text-3xl md:text-5xl font-extrabold tracking-tight leading-tight mb-2'>
                         The Future of Manufacturing with <br className='hidden md:block' /><span className='text-[#114046]'>Latest Technology</span>
                     </h2>
                     <p className='text-[#afafaf] font-[500] text-sm md:text-base'>Expert tech to elevate your manufacturing to the next level.</p>
