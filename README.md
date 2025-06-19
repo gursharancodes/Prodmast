@@ -1,12 +1,59 @@
-# React + Vite
+# 🏭 Prodmast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The Future of Manufacturing with Latest Technology**
+*Expert tech to elevate your manufacturing to the next level.*
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
 
-## Expanding the ESLint configuration
+**Prodmast** is a modern, responsive web application designed to showcase cutting-edge solutions in the manufacturing sector. Built with a sleek, professional interface, it highlights how technology can revolutionize traditional manufacturing operations and helps businesses prepare for the next industrial era.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+* ⚡ Clean, fast, and modern UI
+* 📱 Fully mobile responsive
+* 🔀 Seamless routing with `react-router-dom`
+* 🌐 Deployed on Cloudflare Pages
+* ✨ Built with scalability and clarity in mind
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend Framework:** React
+* **Styling:** Tailwind CSS
+* **Routing:** React Router DOM
+* **Deployment:** Cloudflare Pages
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/gursharancodes/prodmast.git
+cd prodmast
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌍 Live Demo
+
+[**View Prodmast Live**](https://prodmast.pages.dev)
+*Deployed via Cloudflare Pages*
