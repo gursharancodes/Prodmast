@@ -1,4 +1,4 @@
-# 🏭 Prodmast – Smart Manufacturing Web App
+# 🏭 Prodmast – Smart Manufacturing Website
 
 A modern, scalable web application for the **manufacturing industry**, built using **React** and **Tailwind CSS**. **Prodmast** highlights cutting-edge industrial solutions and helps manufacturers embrace the next generation of tech-driven operations with clarity and precision.
 
