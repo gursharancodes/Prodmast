@@ -1,6 +1,6 @@
-# 🏭 Prodmast – Smart Manufacturing Website
+# 🏭 Prodmast - A Manufacturing Company's Landing Page
 
-A modern, scalable web application for the **manufacturing industry**, built using **React** and **Tailwind CSS**. **Prodmast** highlights cutting-edge industrial solutions and helps manufacturers embrace the next generation of tech-driven operations with clarity and precision.
+A modern landing page for the **manufacturing industry**, built using **React** and **Tailwind CSS**. **Prodmast** highlights cutting-edge industrial solutions and helps manufacturers embrace the next generation of tech-driven operations with clarity and precision.
 
 ![React](https://img.shields.io/badge/React-19.x-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-teal)
